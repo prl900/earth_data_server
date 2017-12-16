@@ -1,6 +1,6 @@
 # earth_data_server (part 1)
 
-This code is referenced on the Medium blog post:
+This code is referenced on the Medium blog post: https://medium.com/@p.rozas.larraondo/divide-compress-and-conquer-building-an-earth-data-server-in-go-part-1-d82eee2eceb1
 
 To run this code you'll need a Go 1.0+ environment set in your system.
 In Linux/Mac OSX do:
