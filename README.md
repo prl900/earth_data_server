@@ -1,2 +1,4 @@
 # earth_data_server
-A high performance implementation of an Earth data server written in Go
+A high performance exercise of an Earth data server written in Go.
+
+This code is referenced on a 3 part series of blog posts on https://medium.com/@p.rozas.larraondo
