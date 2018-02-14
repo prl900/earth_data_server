@@ -1,4 +1,4 @@
-# earth_data_server (part 1)
+# earth_data_server (part 2)
 
 This code is referenced on the Medium blog post:
 
