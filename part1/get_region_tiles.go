@@ -53,7 +53,7 @@ func Mosaic(lat, lon float64) image.Image {
 				x1 = (i+199)%tileSize + 1
 			}
 			rect := image.Rect(offXCanvas, offYCanvas, offXCanvas+x1-x0, offYCanvas+y1-y0)
-			draw.Draw(canvas, rect, tile.(*image.RGBA), image.Pt(x0, y0), draw.Over)
+			draw.Draw(canvas, rect, tile, image.Pt(x0, y0), draw.Over)
 			offXCanvas += x1 - x0
 		}
 		offYCanvas += y1 - y0
